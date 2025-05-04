@@ -13,6 +13,10 @@ The assignment required students to use **Generative AI tools** (e.g., ChatGPT) 
 
 ## 🧑‍💻 How to Run the Game
 1. Open Terminal on your Mac.
-2. Navigate to the folder with the script:
+2. Navigate to the folder where you downloaded or cloned this repository:
    ```bash
-   cd path/to/your/game
+   cd cbds699-snake-game
+## Run the game using: 
+python3 snake_game_with_sounds.py
+
+Make sure Python 3 is installed. If your version includes sound, install pygame with:  pip3 install pygame
