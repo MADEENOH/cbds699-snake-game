@@ -16,7 +16,10 @@ The assignment required students to use **Generative AI tools** (e.g., ChatGPT) 
 2. Navigate to the folder where you downloaded or cloned this repository:
    ```bash
    cd cbds699-snake-game
+python3 snake_game_with_sounds.py
+
+
 ## Run the game using: 
 python3 snake_game_with_sounds.py
 
-Make sure Python 3 is installed. If your version includes sound, install pygame with:  pip3 install pygame
+If your version includes sound, make sure to install pygame using:  pip3 install pygame
